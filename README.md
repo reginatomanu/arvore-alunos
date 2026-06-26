@@ -1,6 +1,6 @@
-# 🌳 Sistema de Cadastro de Alunos — Árvore Binária de Busca
+# 🌳 Sistema de Cadastro de Alunos - Árvore Binária de Busca
 
-> Atividade Avaliativa 3 — Estrutura de Dados 2026-01  
+> Atividade Avaliativa 3 - Estrutura de Dados 2026-01  
 > Universidade Tecnológica Federal do Paraná (UTFPR)  
 > Professor: Clayton Kossoski
 
