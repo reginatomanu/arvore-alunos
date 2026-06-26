@@ -99,9 +99,10 @@ Altura da arvore: 3
 
 ```
 📦 arvore-alunos
+ ┣ 📄 LICENSE             ← licença MIT
  ┣ 📄 arvore_alunos.cpp   ← código-fonte principal
- ┣ 📄 README.md           ← este arquivo
- ┗ 📄 LICENSE             ← licença MIT
+ ┗ 📄 README.md           ← este arquivo
+
 ```
 
 ---
