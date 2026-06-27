@@ -162,10 +162,10 @@ int main() {
     int opcao;
 
     // Insere os alunos do exemplo da atividade para demonstração
-    raiz = inserir(raiz, 101, "John Smith",    "Engenharia de Software");
-    raiz = inserir(raiz, 102, "Alice Johnson", "Sistemas de Informacao");
-    raiz = inserir(raiz, 103, "Michael Brown", "Ciencia da Computacao");
-    raiz = inserir(raiz, 104, "Emily Davis",   "Engenharia de Software");
+    raiz = inserir(raiz, 101, "João Ferreira",    "Engenharia de Software");
+    raiz = inserir(raiz, 102, "Alice Silva", "Engenharia Computação");
+    raiz = inserir(raiz, 103, "Manuella Reginato", "ADS");
+    raiz = inserir(raiz, 104, "Lauren Marçulo",   "ADS");
 
     cout << "Alunos de exemplo carregados com sucesso!" << endl;
 
