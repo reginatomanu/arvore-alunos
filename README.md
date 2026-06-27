@@ -26,11 +26,11 @@ Foi utilizada a **Árvore Binária de Busca (ABB)**, por ser a estrutura mais fu
 - Isso garante que um percurso **in-order** (esquerda → raiz → direita) produza os alunos em **ordem alfabética**.
 
 ```
-         John Smith
+         João Ferreira
         /           \
-  Alice Johnson   Michael Brown
+  Alice Silva     Manuella Reginato
        \
-    Emily Davis
+    Lauren Marçulo
 ```
 
 ---
@@ -83,10 +83,10 @@ g++ -o arvore_alunos arvore_alunos.cpp
 0. Sair
 
 --- Alunos em ordem alfabetica ---
-Alice Johnson - Matricula: 102 - Curso: Sistemas de Informacao
-Emily Davis   - Matricula: 104 - Curso: Engenharia de Software
-John Smith    - Matricula: 101 - Curso: Engenharia de Software
-Michael Brown - Matricula: 103 - Curso: Ciencia da Computacao
+Alice Silva    - Matricula: 102 - Curso: Engenharia Computação
+João Ferreira  - Matricula: 101 - Curso: Engenharia de Software
+Lauren Marçulo - Matricula: 104 - Curso: ADS
+Manuella Reg.  - Matricula: 103 - Curso: ADS
 
 --- Informacoes da arvore ---
 Total de alunos: 4
