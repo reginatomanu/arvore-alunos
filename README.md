@@ -29,8 +29,8 @@ Foi utilizada a **Árvore Binária de Busca (ABB)**, por ser a estrutura mais fu
          João Ferreira
         /           \
   Alice Silva     Manuella Reginato
-       \
-    Lauren Marçulo
+                     /
+            Lauren Marçulo
 ```
 
 ---
